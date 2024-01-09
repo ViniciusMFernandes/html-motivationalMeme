@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#meme{
+   border: solid gold;
+   border-width: 3px 5px;
+   margin: 0px;
+}
+h1{
+    text-transform: uppercase;
+    color: gold;
+    text-align: center;
+    margin: 0px;
+    margin-top: -50px;
+}
+h2{
+    text-transform: capitalize;
+    color: gold;
+    text-align: center;    
+    margin: 0px;
+}
+#puppy{
+    margin-top: 30px;
+    margin-left: 200px;
+    padding-bottom: 50px;
+    
+}
